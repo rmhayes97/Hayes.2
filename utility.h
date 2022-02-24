@@ -9,3 +9,5 @@
 #include <math.h>
 #include <stdbool.h>
 #include <errno.h>
+
+#define MAXN 20
